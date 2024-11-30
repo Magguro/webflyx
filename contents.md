@@ -1,7 +1,5 @@
 # contents
 
-what about md files in ZED?
-- [ ] bla bla
-- [x] bla bla
-
-- [BLA](blaBla)
+* titles.md: The movie titles in the WebFlyx collection
+* classics.csv: A comma-separated list of classic movies
+* quotes: A directory of files containing memorable quotes from movies
